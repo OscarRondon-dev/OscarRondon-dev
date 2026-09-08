@@ -7,9 +7,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=780&lines=Full+Stack+Developer+%26+Cybersecurity+Enthusiast;Building+secure+AI+agent+workflows;Security+by+Design+%7C+Remote;Desarrollador+Full+Stack+%26+Ciberseguridad)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Website-oscararevalo.dev-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oscararevalo.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Rondón-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-rondon-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Rondon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-rondon-/)
 [![Email](https://img.shields.io/badge/Email-oscarrondon77@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarrondon77@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-34D399?style=for-the-badge&logo=vercel&logoColor=white)](https://oscararevalo.dev/)
+[![Collaboration](https://img.shields.io/badge/Open_to-remote_part--time-6366F1?style=for-the-badge&logo=handshake&logoColor=white)](#connect--contacto)
 
 </div>
 
@@ -72,8 +73,8 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **SegurScope** | Serverless cybersecurity micro-SaaS platform | Angular · Firebase · Azure |
-| **Project Atlas** *(private)* | Multi-tenant business management platform | Angular · Firebase · Genkit · MongoDB |
-| **Project Nexus** *(private)* | Corporate EdTech academy & training platform | Angular · Azure · MongoDB · Prisma |
+| **Academy Hub** *(private)* | Corporate academy, project management & secure development | Angular · Azure · MongoDB · Prisma |
+| **SportScout Hub** *(private)* | Sports management & talent scouting platform | Angular · Firebase · Genkit · MongoDB |
 | **FormHydra** | Lab environment for ethical brute-force practice | Angular · Node.js |
 | **DarkDump OSINT** | OSINT tool for dark web research | Python · Tor |
 | **HtB S4vitar Search** | CLI for instant Hack The Box machine lookup | Shell · Python |
@@ -129,16 +130,16 @@
 
 <div align="center">
 
-I'm always open to interesting conversations about **secure development**, **AI agents**, or **cybersecurity**.
+Open to **remote part-time** collaborations and interesting conversations about **secure development**, **AI agents**, or **cybersecurity**.
 
-Siempre abierto a conversaciones sobre **desarrollo seguro**, **agentes de IA** o **ciberseguridad**.
+Abierto a colaboraciones **remotas a tiempo parcial** y conversaciones sobre **desarrollo seguro**, **agentes de IA** o **ciberseguridad**.
 
 <br/>
 
-[![Website](https://img.shields.io/badge/??_Portfolio-oscararevalo.dev-161b22?style=for-the-badge)](https://oscararevalo.dev/)
-[![LinkedIn](https://img.shields.io/badge/??_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/oscar-rondon-/)
-[![Email](https://img.shields.io/badge/??_Email-oscarrondon77@gmail.com-EA4335?style=for-the-badge)](mailto:oscarrondon77@gmail.com)
-[![GitHub](https://img.shields.io/badge/??_GitHub-OscarRondon--dev-238636?style=for-the-badge)](https://github.com/OscarRondon-dev)
+[![Website](https://img.shields.io/badge/Portfolio-oscararevalo.dev-161b22?style=for-the-badge)](https://oscararevalo.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/oscar-rondon-/)
+[![Email](https://img.shields.io/badge/Email-oscarrondon77@gmail.com-EA4335?style=for-the-badge)](mailto:oscarrondon77@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-OscarRondon--dev-238636?style=for-the-badge)](https://github.com/OscarRondon-dev)
 
 </div>
 
