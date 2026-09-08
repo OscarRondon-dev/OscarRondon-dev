@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/OscarRondon-dev/OscarRondon-dev/main/assets/banner.svg" alt="Oscar RondÛn ó AI Security & Full Stack" width="900"/>
+<img src="https://raw.githubusercontent.com/OscarRondon-dev/OscarRondon-dev/main/assets/banner.svg" alt="Oscar Rondùn ù AI Security & Full Stack" width="900"/>
 
 <br/>
 
-### EN ∑ ES
+### EN ù ES
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=780&lines=AI+Security+%26+Adversarial+Engineering+Specialist;Full+Stack+%26+Cloud+Developer+%40+iSecurity365;Building+secure+AI+agent+workflows;Especialista+en+IA+Segura+%26+Ingenier%C3%ADa+Adversarial" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=820&height=55&lines=AI+Security+%26+Adversarial+Engineering+Specialist;Full+Stack+%26+Cloud+Developer+%40+iSecurity365;Building+secure+AI+agent+workflows;Especialista+en+IA+Segura+%26+Ingenier%C3%ADa+Adversarial" alt="Typing animation"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 [![Website](https://img.shields.io/badge/Website-oscararevalo.dev-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oscararevalo.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Rondon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-rondon-/)
@@ -20,11 +20,11 @@
 
 ---
 
-## About me ∑ Sobre mÌ
+## About me ù Sobre mù
 
-**EN** ó **AI Security & Adversarial Engineering Specialist** at [**IaaS365**](https://iaas365.com) (Production ∑ IT Solutions & Services) and **Full Stack & Cloud Developer** for **iSecurity365**. I build secure SPAs with Angular & Firebase, automate with Python/Bash, design AI agent workflows with Genkit, and approach every system with **Security by Design**. Winner of **INCIBE Emprende 2025** (Best Cybersecurity Project).
+**EN** ù **AI Security & Adversarial Engineering Specialist** at [**IaaS365**](https://iaas365.com) (Production ù IT Solutions & Services) and **Full Stack & Cloud Developer** for **iSecurity365**. I build secure SPAs with Angular & Firebase, automate with Python/Bash, design AI agent workflows with Genkit, and approach every system with **Security by Design**. Winner of **INCIBE Emprende 2025** (Best Cybersecurity Project).
 
-**ES** ó **Especialista en IA Segura e IngenierÌa Adversarial** en [**IaaS365**](https://iaas365.com) (ProducciÛn ∑ Soluciones y Servicios TI) y **Desarrollador Full Stack & Cloud** para **iSecurity365**. Construyo SPAs seguras con Angular y Firebase, automatizo con Python/Bash, diseÒo flujos de agentes IA con Genkit y aplico **Security by Design**. Ganador de **INCIBE Emprende 2025** (Mejor Proyecto de Ciberseguridad).
+**ES** ù **Especialista en IA Segura e Ingenierùa Adversarial** en [**IaaS365**](https://iaas365.com) (Producciùn ù Soluciones y Servicios TI) y **Desarrollador Full Stack & Cloud** para **iSecurity365**. Construyo SPAs seguras con Angular y Firebase, automatizo con Python/Bash, diseùo flujos de agentes IA con Genkit y aplico **Security by Design**. Ganador de **INCIBE Emprende 2025** (Mejor Proyecto de Ciberseguridad).
 
 ```text
 ??  "The best code is the one that doesn't need a patch on Friday night."
@@ -59,50 +59,50 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=OscarRondon-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=c084fc&text_color=e2e8f0" alt="GitHub Stats"/>
+<img height="180" src="https://raw.githubusercontent.com/OscarRondon-dev/OscarRondon-dev/main/profile/stats.svg" alt="GitHub Stats"/>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=OscarRondon-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=c084fc&fire=ff6b6b&currStreakLabel=38bdf8" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarRondon-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
+<img width="420" src="https://raw.githubusercontent.com/OscarRondon-dev/OscarRondon-dev/main/profile/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## Featured Work ∑ Proyectos destacados
+## Featured Work ù Proyectos destacados
 
 > Private / enterprise projects are listed with codenames. Source access available on request.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **SegurScope** | Serverless cybersecurity micro-SaaS platform | Angular ∑ Firebase ∑ Azure |
-| **Academy Hub** *(private)* | Corporate academy & training platform | Angular ∑ Azure ∑ MongoDB |
-| **SecureDev Nexus** *(private)* | Project management & secure development platform | Angular ∑ Azure ∑ MongoDB ∑ Prisma |
-| **SportScout Hub** *(private)* | Sports management & talent scouting platform | Angular ∑ Firebase ∑ Genkit ∑ MongoDB |
-| **FormHydra** | Lab environment for ethical brute-force practice | Angular ∑ Node.js |
-| **DarkDump OSINT** | OSINT tool for dark web research | Python ∑ Tor |
-| **HtB S4vitar Search** | CLI for instant Hack The Box machine lookup | Shell ∑ Python |
+| **SegurScope** | Serverless cybersecurity micro-SaaS platform | Angular ù Firebase ù Azure |
+| **Academy Hub** *(private)* | Corporate academy & training platform | Angular ù Azure ù MongoDB |
+| **SecureDev Nexus** *(private)* | Project management & secure development platform | Angular ù Azure ù MongoDB ù Prisma |
+| **SportScout Hub** *(private)* | Sports management & talent scouting platform | Angular ù Firebase ù Genkit ù MongoDB |
+| **FormHydra** | Lab environment for ethical brute-force practice | Angular ù Node.js |
+| **DarkDump OSINT** | OSINT tool for dark web research | Python ù Tor |
+| **HtB S4vitar Search** | CLI for instant Hack The Box machine lookup | Shell ù Python |
 
 <details>
-<summary><b>More public repos ∑ M·s repos p˙blicos</b></summary>
+<summary><b>More public repos ù Mùs repos pùblicos</b></summary>
 
-- [**pentagi**](https://github.com/OscarRondon-dev/pentagi) ó Autonomous AI agents for penetration testing
-- [**sim**](https://github.com/OscarRondon-dev/sim) ó Open-source AI agent workflow platform
-- [**CountryApp**](https://github.com/OscarRondon-dev/CountryApp) ó Angular country data explorer
+- [**pentagi**](https://github.com/OscarRondon-dev/pentagi) ù Autonomous AI agents for penetration testing
+- [**sim**](https://github.com/OscarRondon-dev/sim) ù Open-source AI agent workflow platform
+- [**CountryApp**](https://github.com/OscarRondon-dev/CountryApp) ù Angular country data explorer
 
 </details>
 
 ---
 
-## Highlights ∑ Hitos
+## Highlights ù Hitos
 
 <div align="center">
 
 | Achievement | Detail |
 |-------------|--------|
-| ?? **INCIBE Emprende 2025** | Best Cybersecurity Project ó Demo Day Winner |
-| ?? **Yamaha Technical Academy** | Silver (1st) & Bronze (2nd) ó Diagnostic Systems |
+| ?? **INCIBE Emprende 2025** | Best Cybersecurity Project ù Demo Day Winner |
+| ?? **Yamaha Technical Academy** | Silver (1st) & Bronze (2nd) ù Diagnostic Systems |
 | ?? **Microsoft AZ-900** | Azure Fundamentals |
 | ?? **Google AI Essentials** | Google AI for Workspace |
 | ??? **CompTIA Security+** | In progress |
@@ -112,7 +112,7 @@
 
 ---
 
-## Contribution Graph ∑ Snake
+## Contribution Graph ù Snake
 
 <div align="center">
 
@@ -126,7 +126,7 @@
 
 ---
 
-## Random Quote ∑ Cita del dÌa
+## Random Quote ù Cita del dùa
 
 <div align="center">
 
@@ -137,7 +137,7 @@
 
 ---
 
-## Connect ∑ Contacto
+## Connect ù Contacto
 
 <div align="center">
 
@@ -158,6 +158,6 @@ Abierto a colaboraciones **remotas a tiempo parcial** y conversaciones sobre **d
 
 <div align="center">
 
-<sub>Built with dark vibes, subtle rock energy, and too much coffee ? ∑ Remote ??</sub>
+<sub>Built with dark vibes, subtle rock energy, and too much coffee ? ù Remote ??</sub>
 
 </div>
