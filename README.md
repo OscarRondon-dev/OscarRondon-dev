@@ -1,10 +1,14 @@
 <div align="center">
 
-![Banner](./assets/banner.svg)
+<img src="https://raw.githubusercontent.com/OscarRondon-dev/OscarRondon-dev/main/assets/banner.svg" alt="Oscar Rondón — AI Security & Full Stack" width="900"/>
+
+<br/>
 
 ### EN · ES
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=780&lines=Full+Stack+Developer+%26+Cybersecurity+Enthusiast;Building+secure+AI+agent+workflows;Security+by+Design+%7C+Remote;Desarrollador+Full+Stack+%26+Ciberseguridad)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=780&lines=AI+Security+%26+Adversarial+Engineering+Specialist;Full+Stack+%26+Cloud+Developer+%40+iSecurity365;Building+secure+AI+agent+workflows;Especialista+en+IA+Segura+%26+Ingenier%C3%ADa+Adversarial" alt="Typing animation"/>
+
+<br/><br/>
 
 [![Website](https://img.shields.io/badge/Website-oscararevalo.dev-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://oscararevalo.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Rondon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-rondon-/)
@@ -18,9 +22,9 @@
 
 ## About me · Sobre mí
 
-**EN** — Hybrid professional at the intersection of **Full Stack development**, **AI agents**, and **cybersecurity**. I build secure SPAs with Angular & Firebase, automate with Python/Bash, and design systems with a **Security by Design** mindset. Winner of **INCIBE Emprende 2025** (Best Cybersecurity Project).
+**EN** — **AI Security & Adversarial Engineering Specialist** at [**IaaS365**](https://iaas365.com) (Production · IT Solutions & Services) and **Full Stack & Cloud Developer** for **iSecurity365**. I build secure SPAs with Angular & Firebase, automate with Python/Bash, design AI agent workflows with Genkit, and approach every system with **Security by Design**. Winner of **INCIBE Emprende 2025** (Best Cybersecurity Project).
 
-**ES** — Profesional híbrido en la intersección del **desarrollo Full Stack**, **agentes de IA** y **ciberseguridad**. Construyo SPAs seguras con Angular y Firebase, automatizo con Python/Bash y diseño sistemas con mentalidad **Security by Design**. Ganador de **INCIBE Emprende 2025** (Mejor Proyecto de Ciberseguridad).
+**ES** — **Especialista en IA Segura e Ingeniería Adversarial** en [**IaaS365**](https://iaas365.com) (Producción · Soluciones y Servicios TI) y **Desarrollador Full Stack & Cloud** para **iSecurity365**. Construyo SPAs seguras con Angular y Firebase, automatizo con Python/Bash, diseño flujos de agentes IA con Genkit y aplico **Security by Design**. Ganador de **INCIBE Emprende 2025** (Mejor Proyecto de Ciberseguridad).
 
 ```text
 ??  "The best code is the one that doesn't need a patch on Friday night."
@@ -73,7 +77,8 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **SegurScope** | Serverless cybersecurity micro-SaaS platform | Angular · Firebase · Azure |
-| **Academy Hub** *(private)* | Corporate academy, project management & secure development | Angular · Azure · MongoDB · Prisma |
+| **Academy Hub** *(private)* | Corporate academy & training platform | Angular · Azure · MongoDB |
+| **SecureDev Nexus** *(private)* | Project management & secure development platform | Angular · Azure · MongoDB · Prisma |
 | **SportScout Hub** *(private)* | Sports management & talent scouting platform | Angular · Firebase · Genkit · MongoDB |
 | **FormHydra** | Lab environment for ethical brute-force practice | Angular · Node.js |
 | **DarkDump OSINT** | OSINT tool for dark web research | Python · Tor |
@@ -98,6 +103,8 @@
 |-------------|--------|
 | ?? **INCIBE Emprende 2025** | Best Cybersecurity Project — Demo Day Winner |
 | ?? **Yamaha Technical Academy** | Silver (1st) & Bronze (2nd) — Diagnostic Systems |
+| ?? **Microsoft AZ-900** | Azure Fundamentals |
+| ?? **Google AI Essentials** | Google AI for Workspace |
 | ??? **CompTIA Security+** | In progress |
 | ?? **Hack4u (s4vitar)** | Ethical Hacking & Linux |
 
@@ -109,7 +116,11 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/OscarRondon-dev/OscarRondon-dev/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OscarRondon-dev/OscarRondon-dev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OscarRondon-dev/OscarRondon-dev/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/OscarRondon-dev/OscarRondon-dev/output/github-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -120,7 +131,7 @@
 <div align="center">
 
 <!-- quotes-with-github-dark-theme -->
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
 
 </div>
 
