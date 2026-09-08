@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/OscarRondon-dev/OscarRondon-dev/main/assets/banner.svg" alt="Oscar Rondùn ù AI Security & Full Stack" width="900"/>
+<img src="https://raw.githubusercontent.com/OscarRondon-dev/OscarRondon-dev/main/assets/banner.svg" alt="Oscar Rondon - AI Security and Full Stack" width="900"/>
 
 <br/>
 
-### EN ù ES
+### EN &middot; ES
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=820&height=55&lines=AI+Security+%26+Adversarial+Engineering+Specialist;Full+Stack+%26+Cloud+Developer+%40+iSecurity365;Building+secure+AI+agent+workflows;Especialista+en+IA+Segura+%26+Ingenier%C3%ADa+Adversarial" alt="Typing animation"/>
 
@@ -20,14 +20,14 @@
 
 ---
 
-## About me ù Sobre mù
+## About me &middot; Sobre m&iacute;
 
-**EN** ù **AI Security & Adversarial Engineering Specialist** at [**IaaS365**](https://iaas365.com) (Production ù IT Solutions & Services) and **Full Stack & Cloud Developer** for **iSecurity365**. I build secure SPAs with Angular & Firebase, automate with Python/Bash, design AI agent workflows with Genkit, and approach every system with **Security by Design**. Winner of **INCIBE Emprende 2025** (Best Cybersecurity Project).
+**EN** &mdash; **AI Security & Adversarial Engineering Specialist** at [**IaaS365**](https://iaas365.com) (Production &middot; IT Solutions & Services) and **Full Stack & Cloud Developer** for **iSecurity365**. I build secure SPAs with Angular & Firebase, automate with Python/Bash, design AI agent workflows with Genkit, and approach every system with **Security by Design**. Winner of **INCIBE Emprende 2025** (Best Cybersecurity Project).
 
-**ES** ù **Especialista en IA Segura e Ingenierùa Adversarial** en [**IaaS365**](https://iaas365.com) (Producciùn ù Soluciones y Servicios TI) y **Desarrollador Full Stack & Cloud** para **iSecurity365**. Construyo SPAs seguras con Angular y Firebase, automatizo con Python/Bash, diseùo flujos de agentes IA con Genkit y aplico **Security by Design**. Ganador de **INCIBE Emprende 2025** (Mejor Proyecto de Ciberseguridad).
+**ES** &mdash; **Especialista en IA Segura e Ingenier&iacute;a Adversarial** en [**IaaS365**](https://iaas365.com) (Producci&oacute;n &middot; Soluciones y Servicios TI) y **Desarrollador Full Stack & Cloud** para **iSecurity365**. Construyo SPAs seguras con Angular y Firebase, automatizo con Python/Bash, dise&ntilde;o flujos de agentes IA con Genkit y aplico **Security by Design**. Ganador de **INCIBE Emprende 2025** (Mejor Proyecto de Ciberseguridad).
 
 ```text
-??  "The best code is the one that doesn't need a patch on Friday night."
+> "The best code is the one that doesn't need a patch on Friday night."
 ```
 
 ---
@@ -70,49 +70,49 @@
 
 ---
 
-## Featured Work ù Proyectos destacados
+## Featured Work &middot; Proyectos destacados
 
 > Private / enterprise projects are listed with codenames. Source access available on request.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **SegurScope** | Serverless cybersecurity micro-SaaS platform | Angular ù Firebase ù Azure |
-| **Academy Hub** *(private)* | Corporate academy & training platform | Angular ù Azure ù MongoDB |
-| **SecureDev Nexus** *(private)* | Project management & secure development platform | Angular ù Azure ù MongoDB ù Prisma |
-| **SportScout Hub** *(private)* | Sports management & talent scouting platform | Angular ù Firebase ù Genkit ù MongoDB |
-| **FormHydra** | Lab environment for ethical brute-force practice | Angular ù Node.js |
-| **DarkDump OSINT** | OSINT tool for dark web research | Python ù Tor |
-| **HtB S4vitar Search** | CLI for instant Hack The Box machine lookup | Shell ù Python |
+| **SegurScope** | Serverless cybersecurity micro-SaaS platform | Angular &middot; Firebase &middot; Azure |
+| **Academy Hub** *(private)* | Corporate academy & training platform | Angular &middot; Azure &middot; MongoDB |
+| **SecureDev Nexus** *(private)* | Project management & secure development platform | Angular &middot; Azure &middot; MongoDB &middot; Prisma |
+| **SportScout Hub** *(private)* | Sports management & talent scouting platform | Angular &middot; Firebase &middot; Genkit &middot; MongoDB |
+| **FormHydra** | Lab environment for ethical brute-force practice | Angular &middot; Node.js |
+| **DarkDump OSINT** | OSINT tool for dark web research | Python &middot; Tor |
+| **HtB S4vitar Search** | CLI for instant Hack The Box machine lookup | Shell &middot; Python |
 
 <details>
-<summary><b>More public repos ù Mùs repos pùblicos</b></summary>
+<summary><b>More public repos &middot; M&aacute;s repos p&uacute;blicos</b></summary>
 
-- [**pentagi**](https://github.com/OscarRondon-dev/pentagi) ù Autonomous AI agents for penetration testing
-- [**sim**](https://github.com/OscarRondon-dev/sim) ù Open-source AI agent workflow platform
-- [**CountryApp**](https://github.com/OscarRondon-dev/CountryApp) ù Angular country data explorer
+- [**pentagi**](https://github.com/OscarRondon-dev/pentagi) &mdash; Autonomous AI agents for penetration testing
+- [**sim**](https://github.com/OscarRondon-dev/sim) &mdash; Open-source AI agent workflow platform
+- [**CountryApp**](https://github.com/OscarRondon-dev/CountryApp) &mdash; Angular country data explorer
 
 </details>
 
 ---
 
-## Highlights ù Hitos
+## Highlights &middot; Hitos
 
 <div align="center">
 
 | Achievement | Detail |
 |-------------|--------|
-| ?? **INCIBE Emprende 2025** | Best Cybersecurity Project ù Demo Day Winner |
-| ?? **Yamaha Technical Academy** | Silver (1st) & Bronze (2nd) ù Diagnostic Systems |
-| ?? **Microsoft AZ-900** | Azure Fundamentals |
-| ?? **Google AI Essentials** | Google AI for Workspace |
-| ??? **CompTIA Security+** | In progress |
-| ?? **Hack4u (s4vitar)** | Ethical Hacking & Linux |
+| **INCIBE Emprende 2025** | Best Cybersecurity Project &middot; Demo Day Winner |
+| **Yamaha Technical Academy** | Silver (1st) & Bronze (2nd) &middot; Diagnostic Systems |
+| **Microsoft AZ-900** | Azure Fundamentals |
+| **Google AI Essentials** | Google AI for Workspace |
+| **CompTIA Security+** | In progress |
+| **Hack4u (s4vitar)** | Ethical Hacking & Linux |
 
 </div>
 
 ---
 
-## Contribution Graph ù Snake
+## Contribution Graph &middot; Snake
 
 <div align="center">
 
@@ -126,7 +126,7 @@
 
 ---
 
-## Random Quote ù Cita del dùa
+## Random Quote &middot; Cita del d&iacute;a
 
 <div align="center">
 
@@ -137,7 +137,7 @@
 
 ---
 
-## Connect ù Contacto
+## Connect &middot; Contacto
 
 <div align="center">
 
@@ -158,6 +158,6 @@ Abierto a colaboraciones **remotas a tiempo parcial** y conversaciones sobre **d
 
 <div align="center">
 
-<sub>Built with dark vibes, subtle rock energy, and too much coffee ? ù Remote ??</sub>
+<sub>Built with dark vibes, subtle rock energy, and too much coffee &middot; Remote</sub>
 
 </div>
